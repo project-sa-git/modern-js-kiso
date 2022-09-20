@@ -1,2 +1,2 @@
-# modern-js-kiso
+# js-no-kihon
 Created with CodeSandbox
